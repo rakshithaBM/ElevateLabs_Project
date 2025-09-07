@@ -1,0 +1,4 @@
+video_id,trending_date,title,channel_title,category_id,publish_time,views,likes,dislikes,comment_count
+gb111,17.14.11,GB Video A,GB Channel X,22,2017-11-13T17:13:01.000Z,180000,12000,600,1500
+gb222,17.14.11,GB Video B,GB Channel Y,24,2017-11-14T17:15:01.000Z,280000,22000,1100,2500
+gb333,17.14.11,GB Video C,GB Channel Z,10,2017-11-15T17:20:01.000Z,380000,32000,2100,3500

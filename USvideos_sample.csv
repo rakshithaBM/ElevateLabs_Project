@@ -1,0 +1,4 @@
+video_id,trending_date,title,channel_title,category_id,publish_time,views,likes,dislikes,comment_count
+abc123,17.14.11,Video A,Channel X,22,2017-11-13T17:13:01.000Z,150000,10000,500,1000
+def456,17.14.11,Video B,Channel Y,24,2017-11-13T17:13:01.000Z,250000,20000,1000,2000
+ghi789,17.14.11,Video C,Channel Z,10,2017-11-13T17:13:01.000Z,350000,30000,2000,3000
